@@ -5,10 +5,12 @@ Uso: python main.py
 """
 import runpy
 
-from utils import crear_carpeta_figuras
+from graficos_utils import crear_carpeta_figuras
 
 SECCIONES = [
     ('Sección 1: Metodo Euler', 'euler.py'),
+    ('Sección 4: Gestión de vulnerabilidades', 'gestion_vulnerabilidades.py'),
+    ('Sección 5: Modelo discreto', 'modelo_discreto.py'),
 ]
 
 def ejecutar_todo():

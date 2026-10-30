@@ -9,8 +9,7 @@ from graficos_utils import crear_carpeta_figuras
 
 SECCIONES = [
     ('Sección 1: Metodo Euler', 'euler.py'),
-    ('Sección 4: Gestión de vulnerabilidades', 'gestion_vulnerabilidades.py'),
-    ('Sección 5: Modelo discreto', 'modelo_discreto.py'),
+    ('Sección 4: Gestión de vulnerabilidades', 'gestion_vulnerabilidades.py')
 ]
 
 def ejecutar_todo():
